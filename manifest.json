@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Cake day Reddit",
+  "description": "Display Cake day for users",
+  "version": "1.0",
+  "icons": {
+    "16": "reddit.png",
+    "48": "reddit.png",
+    "128": "reddit.png"
+  },
+  "background" : {
+    "service_worker" : "background.js"
+  },
+  
+  "action": {},
+  "permissions": ["activeTab", "scripting"]
+}
