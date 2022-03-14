@@ -1,7 +1,7 @@
 # RedditCake_ChromeExtension
 
 
-![alt text](https://github.com/tudorikas/RedditCake_ChromeExtension/blob/main/github1.png)
+![alt text](https://github.com/tudorikas/RedditCake_ChromeExtension/blob/main/github.png)
 
 
 Google Chrome Extension - Displays the date each account was created that posted comments on a Reddit page.
@@ -9,4 +9,5 @@ Starting with the idea that most new accounts that post comments tend to be bots
 
 
 You can modify the list with subreddits with right click on the extension Icon -> Options. 
+
 ![alt text](https://github.com/tudorikas/RedditCake_ChromeExtension/blob/main/github2.png)
